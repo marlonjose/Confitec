@@ -1,0 +1,15 @@
+C:\Users\marlo\OneDrive\Documentos\Repo\Confitec.Domain.Infra\bin\Debug\net6.0\Confitec.Domain.Infra.deps.json
+C:\Users\marlo\OneDrive\Documentos\Repo\Confitec.Domain.Infra\bin\Debug\net6.0\Confitec.Domain.Infra.dll
+C:\Users\marlo\OneDrive\Documentos\Repo\Confitec.Domain.Infra\bin\Debug\net6.0\Confitec.Domain.Infra.pdb
+C:\Users\marlo\OneDrive\Documentos\Repo\Confitec.Domain.Infra\bin\Debug\net6.0\Confitec.Domain.dll
+C:\Users\marlo\OneDrive\Documentos\Repo\Confitec.Domain.Infra\bin\Debug\net6.0\Confitec.Domain.pdb
+C:\Users\marlo\OneDrive\Documentos\Repo\Confitec.Domain.Infra\obj\Debug\net6.0\Confitec.Domain.Infra.csproj.AssemblyReference.cache
+C:\Users\marlo\OneDrive\Documentos\Repo\Confitec.Domain.Infra\obj\Debug\net6.0\Confitec.Domain.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marlo\OneDrive\Documentos\Repo\Confitec.Domain.Infra\obj\Debug\net6.0\Confitec.Domain.Infra.AssemblyInfoInputs.cache
+C:\Users\marlo\OneDrive\Documentos\Repo\Confitec.Domain.Infra\obj\Debug\net6.0\Confitec.Domain.Infra.AssemblyInfo.cs
+C:\Users\marlo\OneDrive\Documentos\Repo\Confitec.Domain.Infra\obj\Debug\net6.0\Confitec.Domain.Infra.csproj.CoreCompileInputs.cache
+C:\Users\marlo\OneDrive\Documentos\Repo\Confitec.Domain.Infra\obj\Debug\net6.0\Confitec.Domain.Infra.csproj.CopyComplete
+C:\Users\marlo\OneDrive\Documentos\Repo\Confitec.Domain.Infra\obj\Debug\net6.0\Confitec.Domain.Infra.dll
+C:\Users\marlo\OneDrive\Documentos\Repo\Confitec.Domain.Infra\obj\Debug\net6.0\refint\Confitec.Domain.Infra.dll
+C:\Users\marlo\OneDrive\Documentos\Repo\Confitec.Domain.Infra\obj\Debug\net6.0\Confitec.Domain.Infra.pdb
+C:\Users\marlo\OneDrive\Documentos\Repo\Confitec.Domain.Infra\obj\Debug\net6.0\ref\Confitec.Domain.Infra.dll
