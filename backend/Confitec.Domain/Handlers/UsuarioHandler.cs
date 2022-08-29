@@ -14,8 +14,7 @@ namespace Confitec.Domain.Handlers
 {
     public class UsuarioHandler : 
         IHandler<CreateUsuarioCommand>,
-        IHandler<UpdateUsuarioCommand>,
-        IHandler<DeleteUsuarioCommand>
+        IHandler<UpdateUsuarioCommand>
     {
         private readonly IUsuarioRepository _repository;
         public UsuarioHandler(IUsuarioRepository repository)
@@ -41,15 +40,6 @@ namespace Confitec.Domain.Handlers
             _repository.Update(usuario);
 
             return new GenericCommandResult(true, "Usuário alterado com sucesso", usuario);
-        }
-
-        public ICommandResult Handle(DeleteUsuarioCommand command)
-        {
-            var usuario = _repository.GetById(command.Id);
-
-            _repository.Delete(usuario);
-
-            return new GenericCommandResult(true, "Usuário removido com sucesso");
         }
     }
 }

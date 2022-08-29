@@ -30,6 +30,16 @@ namespace Confitec.Domain.API.Controllers
             return repository.GetAll();
         }
 
+        [Route("{id}")]
+        [HttpGet]
+        public Usuario GetById(
+            int id,
+            [FromServices] IUsuarioRepository repository
+)
+        {
+            return repository.GetById(id);
+        }
+
         [Route("")]
         [HttpPut]
         public GenericCommandResult Update(
@@ -40,14 +50,14 @@ namespace Confitec.Domain.API.Controllers
             return (GenericCommandResult)handler.Handle(command);
         }
 
-        [Route("")]
+        [Route("{id}")]
         [HttpDelete]
-        public GenericCommandResult Delete(
-            [FromBody] DeleteUsuarioCommand command,
-            [FromServices] UsuarioHandler handler
+        public void Delete(
+            int id,
+            [FromServices] IUsuarioRepository repository
 )
         {
-            return (GenericCommandResult)handler.Handle(command);
+            repository.Delete(id);
         }
     }
 }

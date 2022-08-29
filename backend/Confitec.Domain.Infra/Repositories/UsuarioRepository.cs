@@ -46,9 +46,12 @@ namespace Confitec.Domain.Infra.Repositories
             _context.SaveChanges();
         }
 
-        public void Delete(Usuario usuario)
+        public void Delete(int id)
         {
-            _context.Remove(usuario);
+            var user = _context
+                .Usuario
+                .FirstOrDefault(UsuarioQueries.GetById(id));
+            _context.Usuario.Remove(user);
             _context.SaveChanges();
         }
     }

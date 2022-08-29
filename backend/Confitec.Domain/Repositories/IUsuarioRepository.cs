@@ -13,6 +13,6 @@ namespace Confitec.Domain.Repositories
         void Update(Usuario usuario);
         Usuario GetById(int id);
         IEnumerable<Usuario> GetAll();
-        void Delete(Usuario usuario);
+        void Delete(int id);
     }
 }
