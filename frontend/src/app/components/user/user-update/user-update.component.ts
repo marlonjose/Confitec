@@ -32,6 +32,7 @@ constructor(private usuarioService: UsuarioService, private router: Router, priv
   }
 
   updateUser():void {
+    this.user.escolaridade = Number(this.user.escolaridade)
     this.usuarioService.update(this.user).subscribe(()=>{
       this.usuarioService.showMensage('Usuário atualizado com sucesso')
       this.router.navigate(['/users']);

@@ -32,7 +32,6 @@ export class UserCreateComponent implements OnInit {
   }
 
   createUser(): void {
-    console.log(Date.now)
     this.user.escolaridade = Number(this.user.escolaridade)
     this.usuarioService.create(this.user).subscribe(() => {
       this.usuarioService.showMensage('Usuário registrado com sucesso')

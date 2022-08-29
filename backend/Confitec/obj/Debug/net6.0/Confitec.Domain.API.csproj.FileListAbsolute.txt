@@ -33,3 +33,38 @@ C:\Users\marlo\OneDrive\Documentos\Repo\Confitec\obj\Debug\net6.0\refint\Confite
 C:\Users\marlo\OneDrive\Documentos\Repo\Confitec\obj\Debug\net6.0\Confitec.Domain.API.pdb
 C:\Users\marlo\OneDrive\Documentos\Repo\Confitec\obj\Debug\net6.0\Confitec.Domain.API.genruntimeconfig.cache
 C:\Users\marlo\OneDrive\Documentos\Repo\Confitec\obj\Debug\net6.0\ref\Confitec.Domain.API.dll
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\bin\Debug\net6.0\appsettings.json
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\bin\Debug\net6.0\Confitec.Domain.API.exe
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\bin\Debug\net6.0\Confitec.Domain.API.deps.json
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\bin\Debug\net6.0\Confitec.Domain.API.runtimeconfig.json
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\bin\Debug\net6.0\Confitec.Domain.API.dll
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\bin\Debug\net6.0\Confitec.Domain.API.pdb
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\bin\Debug\net6.0\Confitec.Domain.dll
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\bin\Debug\net6.0\Confitec.Domain.Infra.dll
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\bin\Debug\net6.0\Confitec.Domain.Infra.pdb
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\bin\Debug\net6.0\Confitec.Domain.pdb
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\obj\Debug\net6.0\Confitec.Domain.API.csproj.AssemblyReference.cache
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\obj\Debug\net6.0\Confitec.Domain.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\obj\Debug\net6.0\Confitec.Domain.API.AssemblyInfoInputs.cache
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\obj\Debug\net6.0\Confitec.Domain.API.AssemblyInfo.cs
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\obj\Debug\net6.0\Confitec.Domain.API.csproj.CoreCompileInputs.cache
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\obj\Debug\net6.0\Confitec.Domain.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\obj\Debug\net6.0\Confitec.Domain.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\obj\Debug\net6.0\scopedcss\bundle\Confitec.Domain.API.styles.css
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\obj\Debug\net6.0\Confitec.Domain.API.csproj.CopyComplete
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\obj\Debug\net6.0\Confitec.Domain.API.dll
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\obj\Debug\net6.0\refint\Confitec.Domain.API.dll
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\obj\Debug\net6.0\Confitec.Domain.API.pdb
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\obj\Debug\net6.0\Confitec.Domain.API.genruntimeconfig.cache
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec\obj\Debug\net6.0\ref\Confitec.Domain.API.dll

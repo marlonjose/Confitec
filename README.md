@@ -1,7 +1,6 @@
 ### Backend 
 
-- Git clone no repositório
-- rodar local
+- `Solution` está dentro da pasta Confitec
 
 ### Frontend | Web
 

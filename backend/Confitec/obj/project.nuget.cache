@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cfeEqGH+ozOMRhfJQKD96+JFwwnkYWHco7r/2wWUyD0ygxlSi63tpHX3MT3ogwOD1jE6oIAtj9QjlLmjy5q45g==",
+  "dgSpecHash": "EXJZ6f7irTyY7uz8QB+e/DnEiyAv7gSoRYnnqSw7eom+VZnGet8sTBrYK0y2TEcwdlKAaVUw7Ulo/vj/6BUZKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marlo\\OneDrive\\Documentos\\Repo\\Confitec\\Confitec.Domain.API.csproj",
+  "projectFilePath": "C:\\Users\\marlo\\OneDrive\\Documentos\\Repo clean\\Confitec\\backend\\Confitec\\Confitec.Domain.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marlo\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.8\\microsoft.entityframeworkcore.6.0.8.nupkg.sha512",
     "C:\\Users\\marlo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.8\\microsoft.entityframeworkcore.abstractions.6.0.8.nupkg.sha512",

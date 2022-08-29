@@ -10,3 +10,15 @@ C:\Users\marlo\OneDrive\Documentos\Repo\Confitec.Domain\obj\Debug\net6.0\Confite
 C:\Users\marlo\OneDrive\Documentos\Repo\Confitec.Domain\obj\Debug\net6.0\refint\Confitec.Domain.dll
 C:\Users\marlo\OneDrive\Documentos\Repo\Confitec.Domain\obj\Debug\net6.0\Confitec.Domain.pdb
 C:\Users\marlo\OneDrive\Documentos\Repo\Confitec.Domain\obj\Debug\net6.0\ref\Confitec.Domain.dll
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec.Domain\bin\Debug\net6.0\Confitec.Domain.deps.json
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec.Domain\bin\Debug\net6.0\Confitec.Domain.dll
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec.Domain\bin\Debug\net6.0\Confitec.Domain.pdb
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec.Domain\obj\Debug\net6.0\Confitec.Domain.csproj.AssemblyReference.cache
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec.Domain\obj\Debug\net6.0\Confitec.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec.Domain\obj\Debug\net6.0\Confitec.Domain.AssemblyInfoInputs.cache
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec.Domain\obj\Debug\net6.0\Confitec.Domain.AssemblyInfo.cs
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec.Domain\obj\Debug\net6.0\Confitec.Domain.csproj.CoreCompileInputs.cache
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec.Domain\obj\Debug\net6.0\Confitec.Domain.dll
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec.Domain\obj\Debug\net6.0\refint\Confitec.Domain.dll
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec.Domain\obj\Debug\net6.0\Confitec.Domain.pdb
+C:\Users\marlo\OneDrive\Documentos\Repo clean\Confitec\backend\Confitec.Domain\obj\Debug\net6.0\ref\Confitec.Domain.dll

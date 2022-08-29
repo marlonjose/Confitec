@@ -631,11 +631,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marlo\\OneDrive\\Documentos\\Repo\\Confitec.Domain.Infra\\Confitec.Domain.Infra.csproj",
+      "projectUniqueName": "C:\\Users\\marlo\\OneDrive\\Documentos\\Repo clean\\Confitec\\backend\\Confitec.Domain.Infra\\Confitec.Domain.Infra.csproj",
       "projectName": "Confitec.Domain.Infra",
-      "projectPath": "C:\\Users\\marlo\\OneDrive\\Documentos\\Repo\\Confitec.Domain.Infra\\Confitec.Domain.Infra.csproj",
+      "projectPath": "C:\\Users\\marlo\\OneDrive\\Documentos\\Repo clean\\Confitec\\backend\\Confitec.Domain.Infra\\Confitec.Domain.Infra.csproj",
       "packagesPath": "C:\\Users\\marlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marlo\\OneDrive\\Documentos\\Repo\\Confitec.Domain.Infra\\obj\\",
+      "outputPath": "C:\\Users\\marlo\\OneDrive\\Documentos\\Repo clean\\Confitec\\backend\\Confitec.Domain.Infra\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -652,8 +652,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\marlo\\OneDrive\\Documentos\\Repo\\Confitec.Domain\\Confitec.Domain.csproj": {
-              "projectPath": "C:\\Users\\marlo\\OneDrive\\Documentos\\Repo\\Confitec.Domain\\Confitec.Domain.csproj"
+            "C:\\Users\\marlo\\OneDrive\\Documentos\\Repo clean\\Confitec\\backend\\Confitec.Domain\\Confitec.Domain.csproj": {
+              "projectPath": "C:\\Users\\marlo\\OneDrive\\Documentos\\Repo clean\\Confitec\\backend\\Confitec.Domain\\Confitec.Domain.csproj"
             }
           }
         }

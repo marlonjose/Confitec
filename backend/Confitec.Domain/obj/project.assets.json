@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marlo\\OneDrive\\Documentos\\Repo\\Confitec.Domain\\Confitec.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\marlo\\OneDrive\\Documentos\\Repo clean\\Confitec\\backend\\Confitec.Domain\\Confitec.Domain.csproj",
       "projectName": "Confitec.Domain",
-      "projectPath": "C:\\Users\\marlo\\OneDrive\\Documentos\\Repo\\Confitec.Domain\\Confitec.Domain.csproj",
+      "projectPath": "C:\\Users\\marlo\\OneDrive\\Documentos\\Repo clean\\Confitec\\backend\\Confitec.Domain\\Confitec.Domain.csproj",
       "packagesPath": "C:\\Users\\marlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marlo\\OneDrive\\Documentos\\Repo\\Confitec.Domain\\obj\\",
+      "outputPath": "C:\\Users\\marlo\\OneDrive\\Documentos\\Repo clean\\Confitec\\backend\\Confitec.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marlo\\AppData\\Roaming\\NuGet\\NuGet.Config",

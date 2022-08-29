@@ -47,7 +47,7 @@ export class UsuarioService {
   }
 
   update(usuario: Usuario): Observable<Usuario> {
-    const url = `${this.endpoint}/${usuario.id}`
+    const url = `${this.endpoint}`
     return this.http.put<Usuario>(url, usuario).pipe(
       map(obj => obj),
       catchError(e => this.erroHandler(e))
@@ -55,7 +55,6 @@ export class UsuarioService {
   }
 
   delete(id: number): Observable<Usuario> {
-    debugger;
     const url = `${this.endpoint}/${id}`
     return this.http.delete<Usuario>(url).pipe(
       map(obj => obj),
@@ -64,9 +63,11 @@ export class UsuarioService {
   }
 
   erroHandler(e : any): Observable<any>{
-    for(const [key, value] of Object.entries(e.error.errors)) {
-      this.showMensage(value[0], true)
-      break;
+    if(e.error != null) {
+      for(const [key, value] of Object.entries(e.error.errors)) {
+        this.showMensage(value[0], true)
+        break;
+      }
     }
     return EMPTY
   }

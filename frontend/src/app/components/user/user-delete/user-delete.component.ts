@@ -32,7 +32,6 @@ export class UserDeleteComponent implements OnInit {
   }
 
   deleteUser():void {
-    debugger;
     this.usuarioService.delete(this.user.id).subscribe(()=>{
       this.usuarioService.showMensage('Usuário removido com sucesso')
       this.router.navigate(['/users']);

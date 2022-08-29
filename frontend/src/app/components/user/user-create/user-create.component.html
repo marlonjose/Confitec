@@ -24,9 +24,11 @@
         </mat-form-field>
         <mat-form-field>
             <input matInput placeholder="Data de nascimento" 
-            [(ngModel)]="user.dataNascimento"
+            [ngModel]="user.dataNascimento | date:'yyyy-MM-dd'"
+            (ngModelChange)="user.dataNascimento = $event"
             name="data_nascimento"
             type="date"
+            required="true"
             >
         </mat-form-field>
         <mat-form-field>

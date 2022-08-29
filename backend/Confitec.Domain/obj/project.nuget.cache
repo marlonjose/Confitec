@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4RFRb9Q2Zd4TjuiBD97MF8oAB46KZarbKVJrdaW+Bh+XNg0KRip+FPje8PAYty5MnsgLP5iF4QliAxHlaYSdGQ==",
+  "dgSpecHash": "MfA82MnwoAdrIr4thVBNXCVghJBNs2RLTPUFTeFa2Pj/f9ot978Fjp17PQoRXDGZmfHoT/aRsCdXwlkCtyiMDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marlo\\OneDrive\\Documentos\\Repo\\Confitec.Domain\\Confitec.Domain.csproj",
+  "projectFilePath": "C:\\Users\\marlo\\OneDrive\\Documentos\\Repo clean\\Confitec\\backend\\Confitec.Domain\\Confitec.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
